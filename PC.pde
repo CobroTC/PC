@@ -208,19 +208,19 @@ void LoadSounds(){
 }
 
 void LoadImages(){
-  background = loadImage("Background1.jpg");
-  taskbar = loadImage("Taskbar.jpg");
-  logo = loadImage("Logo.jpg");
-  power = loadImage("Power.jpg");
-  settings = loadImage("Settings.jpg");
-  appstore = loadImage("AppStore.jpg");
-  game = loadImage("Game.jpg");
-  download = loadImage("Download.jpg");
-  downloaded = loadImage("Downloaded.jpg");
-  weather = loadImage("Weather.jpg");
-  profileOpt[0] = loadImage("Profile.jpg");
-  profileOpt[1] = loadImage("Mushroom.jpg");
-  profileOpt[2] = loadImage("Fish.jpg");
-  profileOpt[3] = loadImage("BeachBall.jpg");
-  internet = loadImage("Internet.jpg");
+  background = loadImage("Images/Background1.jpg");
+  taskbar = loadImage("Images/Taskbar.jpg");
+  logo = loadImage("Images/Logo.jpg");
+  power = loadImage("Images/Power.jpg");
+  settings = loadImage("Images/Settings.jpg");
+  appstore = loadImage("Images/AppStore.jpg");
+  game = loadImage("Images/Game.jpg");
+  download = loadImage("Images/Download.jpg");
+  downloaded = loadImage("Images/Downloaded.jpg");
+  weather = loadImage("Images/Weather.jpg");
+  profileOpt[0] = loadImage("Images/Profile.jpg");
+  profileOpt[1] = loadImage("Images/Mushroom.jpg");
+  profileOpt[2] = loadImage("Images/Fish.jpg");
+  profileOpt[3] = loadImage("Images/BeachBall.jpg");
+  internet = loadImage("Images/Internet.jpg");
 }
